@@ -1,0 +1,15 @@
+{
+  "name": "amu-get-query-param",
+  "version": "0.0.1",
+  "description": "An example of getting the query params from the url",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
